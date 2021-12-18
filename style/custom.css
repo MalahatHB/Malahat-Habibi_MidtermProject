@@ -1,0 +1,134 @@
+.images-in-one-row {
+    text-align: center;
+}
+
+.first-sentence {
+    text-align: center;
+    padding: 50px;
+    font-family:'entypo-fontello';
+    color: #111111;
+}
+
+header {
+    background-color: #111111;
+    color: white;
+}
+
+.header-links {
+    color: white;
+}
+
+.header-links:hover {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+
+.header-footer-icons {
+    color: white;
+}
+
+.header-footer-icons:hover {
+    color: white;
+}
+
+.fa-icons {
+    margin: 5px;
+}
+
+footer {
+    text-align: center;
+}
+
+#blog-page-cards {
+    text-align: center;
+}
+
+.footer-icons-border {
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0 0 2px #888;
+    padding: 0.5em 0.6em;
+    background-color: #262626;
+}
+
+.footer-icons {
+    color: white;
+    margin: 5px;
+}
+
+.footer-links {
+    color: #aaaaaa;
+}
+
+.footer-links:hover {
+    color: black;
+}
+
+#subscribe-text {
+    color: #777777;
+}
+
+#last-news-text {
+    color: #aaaaaa;
+}
+
+#footer-email-input {
+    padding: 12px 20px;
+    border: 2px solid #000000;
+}
+
+#footer-submit-button {
+    padding: 12px 20px;
+    border: 2px solid #000000;
+    background-color: white;
+}
+
+#footer-submit-button:hover {
+    background-color: #222222;
+}
+
+.footer-line-icons {
+    font-size: 25px;
+    color: #919090;
+}
+
+#footer-star-icon {
+    color: black;
+    margin: 10px;
+}
+
+.contact-page-inputs {
+    padding: 12px 20px;
+    border: 2px solid #f2f2f2;
+    background-color: #f8f8f8;
+    color: #919191;
+}
+
+#contact-page-textarea {
+    padding: 12px 20px;
+    border: 2px solid #f2f2f2;
+    background-color: #f8f8f8;
+    color: #919191;
+}
+
+#contact-page-submit-button {
+    padding: 12px 40px;
+    margin-top: 20px;
+    border: 2px solid #000000;
+    background-color: #222222;
+    color: white;
+}
+
+#contact-page-submit-button:hover {
+    border: 2px solid #b08080;
+    background-color: #d1a1a1;
+}
+
+.zoom {
+    transition: transform .5s;
+}
+
+.zoom:hover {
+    transform: scale(1.08);
+}
