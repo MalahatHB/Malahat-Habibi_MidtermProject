@@ -5,7 +5,7 @@
 .first-sentence {
     text-align: center;
     padding: 50px;
-    font-family:'entypo-fontello';
+    font-family: 'entypo-fontello';
     color: #111111;
 }
 
@@ -15,6 +15,7 @@ header {
 }
 
 .header-links {
+    padding: 25px 20px 35px 20px;
     color: white;
 }
 
